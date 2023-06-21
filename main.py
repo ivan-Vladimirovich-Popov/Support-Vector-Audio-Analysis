@@ -38,4 +38,4 @@ def predicct(path):
        print('REPORT :\n')
        print(classification_report(y_test,yhat))
 
-predicct("dataset.csv")
+predicct("")
