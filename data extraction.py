@@ -4,8 +4,8 @@ import scipy
 import os
 import csv
 import warnings
-path1=r"D:\datasets\Adults"
-path2=r"D:\datasets\Children"
+path1=r"dataset of the first category"
+path2=r"dataset of the second category"
 warnings.filterwarnings('ignore')
 
 def extract_features(directory, file):
