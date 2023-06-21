@@ -1,5 +1,5 @@
 import os
-path=r'D:\datasets\voice_data'
+path=r''
 def startRename():
     files=os.listdir(path)
     count=1
